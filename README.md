@@ -1,6 +1,11 @@
-Reproductor de música por consola, se necesita crear un archivo cancion.txt para su funcionamiento correcto, dentro poner el nombre de las canciones en minuscula.
+IMPORTANTE
+
+Reproductor de música por consola, se necesita crear un archivo cancion.txt en donde se encuentre el ".exe" del programa, ahí mismo una carpeta "Música" en donde se encuentren las canciones en formato ".mp3" para un funcionamiento correcto, 
 
 
+El nombre de las canciones deberá estar en minuscula tanto en el".mp3" como en el archivo "cancion.txt".
+
+CREDITOS
 
 
 
